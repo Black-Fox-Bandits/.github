@@ -1,4 +1,4 @@
-![Iron Cloud]()
+
   <h1>
    Welcome to our team project 👋 
   </h1>
