@@ -10,7 +10,7 @@
   
 ## 💾 Description of our project 🚧
 </br>
-The objective of this project is to conduct a comprehensive penetration test on Company X's network infrastructure, systems, and applications. The purpose is to identify potential security vulnerabilities and weaknesses that could be exploited by unauthorized individuals. By simulating real-world attacks, the project aims to assess the company's security posture and provide recommendations for remediation.
+The objective of this project is to conduct a comprehensive penetration test on Company Hermes network infrastructure, systems, and applications. The purpose is to identify potential security vulnerabilities and weaknesses that could be exploited by unauthorized individuals. By simulating real-world attacks, the project aims to assess the company's security posture and provide recommendations for remediation.
   
 ## ♟️Our Team:
 <a href="https://www.linkedin.com/in/Sierra-maldonado/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sierra | LinkedIn" width="100px"/></a>
