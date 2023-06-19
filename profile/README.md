@@ -1,3 +1,4 @@
+![mygreat](BlackFoxBandits.png)
 
   <h1>
    Welcome to our team project 👋 
