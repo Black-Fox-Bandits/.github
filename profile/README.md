@@ -30,10 +30,6 @@ The objective of this project is to conduct a comprehensive penetration test on 
 
 ##    🔎Repos ✒️
 </br>
-<a href="https://github.com/Black-Fox-Bandits/Standard-Operating-Procedure"><img align="left" src="https://img.shields.io/badge/Standard Operating Procedure-black" alt="Iron Cloud | GitHub" width="300px"/></a
-</br>
-</br>
-</br>
 <a href="https://github.com/Black-Fox-Bandits/Doucmentation"><img align="left" src="https://img.shields.io/badge/Documentation-black" alt="Iron Cloud | GitHub" width="160px"/></a>
 </br>
 </br>
