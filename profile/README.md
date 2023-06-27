@@ -43,7 +43,7 @@ The objective of this project is to conduct a comprehensive penetration test on 
 
 ## PowerPoint and Video
 - [Powerpoint](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/Black%20Fox%20Bandits.pdf)
-- [Video Link]()
+- [Video Link](https://fb.watch/lqHZZtndCQ/?mibextid=Nif5oz)
 
 # Network Topology 🧩
 </br>
